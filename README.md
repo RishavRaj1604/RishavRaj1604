@@ -27,7 +27,7 @@
 
 I'm an AI/ML developer focused on building end-to-end intelligent systems — from model training to production-ready interfaces. My work lives at the intersection of **machine learning**, **automation**, and **real-world utility**.
 
-Currently deep in: **Advanced ML · Deep Learning · GATE CSE 2026**
+Currently deep in: **Advanced ML · Deep Learning · GENAI**
 
 ---
 
@@ -101,16 +101,6 @@ Parses resumes, benchmarks against ATS scoring criteria, and returns structured 
 - Analyzed workflows with cross-functional teams to identify inefficiencies and suggest improvements.
 - Built dashboards and documentation for internal reviews and senior stakeholders.
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Rishav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=000000&text_color=333333&icon_color=555555)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&title_color=000000&text_color=333333)
-
-</div>
 
 ---
 
