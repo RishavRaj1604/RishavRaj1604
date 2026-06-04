@@ -13,9 +13,9 @@
 
 **B.Tech CSE (AI & ML)** · Building intelligent systems that actually work.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rishavv-raj)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishavraj1604/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rishavraj.0416@gmail.com)
 
 </div>
 
@@ -77,20 +77,29 @@ Parses resumes, benchmarks against ATS scoring criteria, and returns structured 
 ## 🛠 Stack
 
 ```
-Core          →  Python · NumPy · Pandas · Scikit-learn
-Deep Learning →  TensorFlow / PyTorch (learning)
-Vision        →  OpenCV · YOLO
-Deployment    →  Streamlit · Git · GitHub
-Data          →  SQL · Matplotlib · Seaborn
+**Languages:** Python, C++, JavaScript, HTML5, CSS3
+**Frameworks:** TensorFlow, Keras, Scikit-Learn
+**Libraries & Tools:** NumPy, Pandas, Matplotlib, Seaborn, OpenCV, Git
+**Databases:** MySQL
+**GenAI:** Google Gemini API, Prompt Engineering, LLM Integration
+**Domains:** Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, Time-Series Forecasting
 ```
 
 ---
 
 ## 💼 Experience
 
-**Tata Motors Ltd.** — AI/ML Intern
-Applied predictive modeling to real manufacturing data. This is where MaintAI was born.
+### AI & Data Analytics Intern — Aurum Royal Pte Ltd., Singapore
+*Aug 2025 – Mar 2026*
+- Analyzed hospitality datasets to extract occupancy trends, booking patterns, and revenue insights.
+- Built ML-based forecasting models for demand prediction and business planning.
+- Delivered analytical reports and data visualizations using Python to support data-driven decisions.
 
+### ML Engineer Intern — Tata Motors Ltd.
+*Jun 2025 – Jul 2025*
+- Supported data analysis and reporting across departments to drive operational decisions.
+- Analyzed workflows with cross-functional teams to identify inefficiencies and suggest improvements.
+- Built dashboards and documentation for internal reviews and senior stakeholders.
 ---
 
 ## 📈 GitHub Stats
