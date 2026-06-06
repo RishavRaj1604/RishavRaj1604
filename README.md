@@ -37,33 +37,54 @@ I'm an AI/ML developer passionate about building practical machine learning solu
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### AI / ML
+## 🤖 AI / Machine Learning
 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 
-### Data Science
+## 🧠 Generative AI
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6A0DAD?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-5D3FD3?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7B68EE?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+
+## 💬 NLP
+
+![Natural Language Processing](https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge)
+![Text Classification](https://img.shields.io/badge/Text%20Classification-4682B4?style=for-the-badge)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-4169E1?style=for-the-badge)
+![Resume Parsing](https://img.shields.io/badge/Resume%20Parsing-6495ED?style=for-the-badge)
+![Document Intelligence](https://img.shields.io/badge/Document%20AI-5F9EA0?style=for-the-badge)
+
+## 👁️ Computer Vision
+
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-008080?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00A86B?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Object Detection](https://img.shields.io/badge/Object%20Detection-20B2AA?style=for-the-badge)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-008B8B?style=for-the-badge)
+
+## 📊 Data Science & Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0A66C2?style=for-the-badge)
+![Time Series Forecasting](https://img.shields.io/badge/Time%20Series-1565C0?style=for-the-badge)
 
-### Development
+## 🚀 Deployment & Apps
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=RishavRaj1604\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=RishavRaj1604\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RishavRaj1604\&layout=compact\&theme=tokyonight\&hide_border=true)
+![API Development](https://img.shields.io/badge/API%20Development-009688?style=for-the-badge)
+![Model Deployment](https://img.shields.io/badge/Model%20Deployment-3F51B5?style=for-the-badge)
 
 ---
 
