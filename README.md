@@ -75,7 +75,7 @@ My flagship project. An integrated environment for AI tools, automation pipeline
 
 **Tech:** Python • LLMs • Automation • Workflow Orchestration
 
-[Repository](LINK)
+
 
 ---
 
@@ -85,7 +85,7 @@ ML-powered analytics platform built around industrial predictive maintenance use
 
 **Tech:** Python • Streamlit • Scikit-Learn • Time-Series Analysis
 
-[Repository](LINK)
+
 
 ---
 
@@ -95,7 +95,7 @@ ATS-aware resume intelligence system that evaluates resumes against recruiter sc
 
 **Tech:** Python • NLP • PDF Processing • Streamlit
 
-[Repository](LINK)
+
 
 ---
 
@@ -105,7 +105,7 @@ Real-time computer vision application for object detection in live video streams
 
 **Tech:** Python • YOLOv8 • OpenCV
 
-[Repository](LINK)
+
 
 ---
 
